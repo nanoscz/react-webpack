@@ -1,0 +1,9 @@
+$base-color: #007b6d;
+$just-white: #ffffff;
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: $base-color;
+  color: $just-white;
+}
